@@ -24,6 +24,7 @@ body, html {
     height: 38px;
     border-radius: 100px;
     background-color: gray;
+    margin-right:10px ;
 }
 .icons{
     width: 45px;
